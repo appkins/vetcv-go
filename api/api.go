@@ -1,7 +1,7 @@
 package api
 
 import (
-	"github.com/markcheno/go-vue-starter/models"
+	"github.com/appkins/vetcv-go/models"
 )
 
 // API -

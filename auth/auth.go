@@ -4,9 +4,9 @@ import (
 	"net/http"
 	"time"
 
+	"github.com/appkins/vetcv-go/models"
 	jwtmiddleware "github.com/auth0/go-jwt-middleware"
 	jwt "github.com/dgrijalva/jwt-go"
-	"github.com/markcheno/go-vue-starter/models"
 )
 
 // signingKey set up a global string for our secret
